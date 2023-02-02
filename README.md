@@ -3,7 +3,7 @@
 
 ---
 # Kurulum
-### 📥 `.env` dosyasını doldurun.
+### 📥 `ornek.env` dosyasını `.env`'e çevirerek doldurun.
 ```
 token=DiscordBotToken
 uri=MongoUrl
