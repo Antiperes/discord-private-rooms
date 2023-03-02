@@ -1,5 +1,9 @@
 # MONGO DB'li Discord Özel Oda açma botu!
 
+---
+# Açıklama
+### Ne star ne prim için paylaştım çevirip insanların kullanması için paylaştım amacım insanların botu kullanması açıklama yapma gereği duymuyordum çünkü amacım belliydi daha beni tanımayıp yorum yapan arkadaşları umursamıyorum
+
 
 ---
 # Kurulum
