@@ -15,6 +15,6 @@ uri=MongoUrl
 ---
 ```js
 destek ve ulaşmak için: {
-discord: "Antipere$#8967", // https://discord.com/users/733698350435532850
+discord: "Antiperes#1932", // https://discord.com/users/733698350435532850
 }
 ```
